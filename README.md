@@ -1,1 +1,1 @@
-# quiz-app--java-script
+# quiz-app-java-script
